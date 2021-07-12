@@ -8,4 +8,4 @@ def main(ip,num):       #call func with input user
     if num == 1 :ip_bin(ip)
     if num == 2 :class_ip(ip)
     if num == 3 :ip_bin(ip);class_ip(ip)
-main(ip,q)d
+main(ip,q)
