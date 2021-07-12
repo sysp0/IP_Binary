@@ -29,7 +29,5 @@ def class_ip (ip):
         print("IP Class : ",cls,"\nPrivet Network : ",pr )
     split(ip,c=0,d=s)
     class_ip(sp1=s[0],sp2=s[1])
-ip = input("IP >>>")
-class_ip(ip)
 
 
