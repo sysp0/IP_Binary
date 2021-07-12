@@ -15,5 +15,3 @@ def ip_bin(ip):
     ip_len(ip,c=0,d=dec)
     ip_bin(d=dec,b1= [128,64,32,16,8,4,2,1],b2=b)
     binary =  ".".join(binr);print(binary)
-ip = input("ip ->>")    #get ip
-ip_bin(ip)
