@@ -30,4 +30,4 @@ def class_ip (ip):
     split(ip,c=0,d=s)
     class_ip(sp1=s[0],sp2=s[1])
 ip = input("IP >>>")
-# # class_ip(ip)
+class_ip(ip)
