@@ -31,5 +31,5 @@ def class_ip (ip):
     class_ip(sp1=s[0],sp2=s[1])
 ip = input("IP >>>")
 class_ip(ip)
-#test
+
 
